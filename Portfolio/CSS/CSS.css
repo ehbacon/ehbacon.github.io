@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.outline {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.athletics {
+	position: absolute;
+	top: 895px;
+	left: 102.5px;
+}
+.ehbacon {
+	position: absolute;
+	top: 895px;
+	left: 721.9px;
+}
+.video1 {
+	position: absolute;
+	top: 1011.9px;
+	left: 68.75px;
+}
+.video11 {
+	position:absolute;
+	top: 1011.9px;
+	left: 645px;
+}
+.video2 {
+	position: absolute;
+	top: 1343.75px;
+	left: 68.75px;
+}
+.video12 {
+	position: absolute;
+	top: 1343.75px;
+	left: 645px;
+}
+.video3 {
+	position: absolute;
+	top: 1685px;
+	left: 68.75px;
+}
+.video13 {
+	position: absolute;
+	top: 1685px;
+	left: 645px;
+}
+.video4 {
+	position: absolute;
+	top: 2026.25px;
+	left: 68.75px;
+}
+.video14 {
+	position: absolute;
+	top: 2026.25px;
+	left: 645px;
+}
+.video5 {
+	position: absolute;
+	top: 2367.5px;
+	left: 68.75px;
+}
+.video15 {
+	position: absolute;
+	top: 2367.5px;
+	left: 645px;
+}
+.video6 {
+	position: absolute;
+	top: 2708.75px;
+	left: 68.75px;
+}
+.video16 {
+	position: absolute;
+	top: 2708.75px;
+	left: 645px;
+}
+.video7 {
+	position: absolute;
+	top: 3050px;
+	left: 68.75px;
+}
+.video17 {
+	position: absolute;
+	top: 3050px;
+	left: 645px;
+}
+.video8 {
+	position: absolute;
+	top: 3391.25px;
+	left: 68.75px;
+}
+.video18 {
+	position: absolute;
+	top: 3391.25px;
+	left: 645px;
+}
+.video9 {
+	position: absolute;
+	top: 3732.5px;
+	left: 68.75px;
+}
+.video19 {
+	position: absolute;
+	top: 3732.5px;
+	left: 645px;
+}
+.video10 {
+	position: absolute;
+	top: 4073.75px;
+	left: 68.75px;
+}
+.video20 {
+	position: absolute;
+	top: 4073.75px;
+	left: 645px;
+}
+.contact {
+	position: absolute;
+	top: 4550px;
+	left: 450.25px;
+}
